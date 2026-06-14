@@ -85,3 +85,10 @@ https://example.com/article
 This public repository is used for plugin distribution and release notes only.
 The source code is not published here.
 
+## License
+
+Lumenwise is available for non-commercial use only. See
+[LICENSE.md](LICENSE.md).
+
+Commercial use, resale, SaaS hosting, paid-client use, marketplace
+redistribution, and commercial bundling require prior written permission.
