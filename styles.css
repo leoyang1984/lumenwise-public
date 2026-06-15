@@ -1,0 +1,31 @@
+.lumenwise-muted {
+  color: var(--text-muted);
+}
+
+.lumenwise-feed-list {
+  margin-top: 8px;
+}
+
+.lumenwise-interests {
+  display: block;
+}
+
+.lumenwise-interests .setting-item-control {
+  padding-top: 8px;
+}
+
+.lumenwise-interests textarea {
+  width: 100%;
+  min-height: 5em;
+  resize: vertical;
+}
+
+.lumenwise-ribbon.is-syncing svg {
+  animation: lumenwise-spin 1s linear infinite;
+}
+
+@keyframes lumenwise-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
